@@ -1,4 +1,5 @@
-# Git-Jenkins
+# Automation using DevOps Power
 
-Working over Github Webhooks and jenkins GithubScm Pooling.
+This repository is used for development purposes.
 
+Refer my LinkedIn article for further details on [Automation using DevOps power](https://www.linkedin.com/pulse/automation-using-devops-power-darsh-asawa/)
